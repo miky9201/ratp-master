@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/miky9201/ratp/static/css/main.6a2a2643.chunk.css",
-    "main.js": "/miky9201/ratp/static/js/main.9a69635a.chunk.js",
-    "main.js.map": "/miky9201/ratp/static/js/main.9a69635a.chunk.js.map",
-    "runtime-main.js": "/miky9201/ratp/static/js/runtime-main.17162da7.js",
-    "runtime-main.js.map": "/miky9201/ratp/static/js/runtime-main.17162da7.js.map",
-    "static/js/2.a79294fc.chunk.js": "/miky9201/ratp/static/js/2.a79294fc.chunk.js",
-    "static/js/2.a79294fc.chunk.js.map": "/miky9201/ratp/static/js/2.a79294fc.chunk.js.map",
-    "static/js/3.3073e84c.chunk.js": "/miky9201/ratp/static/js/3.3073e84c.chunk.js",
-    "static/js/3.3073e84c.chunk.js.map": "/miky9201/ratp/static/js/3.3073e84c.chunk.js.map",
-    "index.html": "/miky9201/ratp/index.html",
-    "static/css/main.6a2a2643.chunk.css.map": "/miky9201/ratp/static/css/main.6a2a2643.chunk.css.map",
-    "static/js/2.a79294fc.chunk.js.LICENSE.txt": "/miky9201/ratp/static/js/2.a79294fc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/miky9201/ratp/static/media/parisine.9cb41c9e.otf",
-    "static/media/logo.02acc6ad.png": "/miky9201/ratp/static/media/logo.02acc6ad.png"
+    "main.css": "/ratp-master/static/css/main.4b68f778.chunk.css",
+    "main.js": "/ratp-master/static/js/main.9a69635a.chunk.js",
+    "main.js.map": "/ratp-master/static/js/main.9a69635a.chunk.js.map",
+    "runtime-main.js": "/ratp-master/static/js/runtime-main.b88ac2b8.js",
+    "runtime-main.js.map": "/ratp-master/static/js/runtime-main.b88ac2b8.js.map",
+    "static/js/2.a79294fc.chunk.js": "/ratp-master/static/js/2.a79294fc.chunk.js",
+    "static/js/2.a79294fc.chunk.js.map": "/ratp-master/static/js/2.a79294fc.chunk.js.map",
+    "static/js/3.3073e84c.chunk.js": "/ratp-master/static/js/3.3073e84c.chunk.js",
+    "static/js/3.3073e84c.chunk.js.map": "/ratp-master/static/js/3.3073e84c.chunk.js.map",
+    "index.html": "/ratp-master/index.html",
+    "static/css/main.4b68f778.chunk.css.map": "/ratp-master/static/css/main.4b68f778.chunk.css.map",
+    "static/js/2.a79294fc.chunk.js.LICENSE.txt": "/ratp-master/static/js/2.a79294fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ratp-master/static/media/parisine.9cb41c9e.otf",
+    "static/media/logo.02acc6ad.png": "/ratp-master/static/media/logo.02acc6ad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.17162da7.js",
+    "static/js/runtime-main.b88ac2b8.js",
     "static/js/2.a79294fc.chunk.js",
-    "static/css/main.6a2a2643.chunk.css",
+    "static/css/main.4b68f778.chunk.css",
     "static/js/main.9a69635a.chunk.js"
   ]
 }
