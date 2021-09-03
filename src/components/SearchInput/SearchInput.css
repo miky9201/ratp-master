@@ -1,0 +1,16 @@
+.search-input-container {
+      color: #024083;
+      margin-bottom: 30px;
+      background-color: #00aa91;
+      width: 300px;
+      height: 100px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+.search-input-container label {
+      font-weight: 700;
+      font-size: 15px;
+      margin-bottom: 10px;
+}

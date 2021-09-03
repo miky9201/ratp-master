@@ -1,0 +1,39 @@
+.table-container {
+      margin-bottom: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+}
+
+.table-container button{
+      text-decoration: none;
+      border: none;
+}
+
+.array-line {
+      color: #eee;
+      background-color: #00aa91;
+      width: 80vw;
+      max-width: 900px;
+      min-height: 30px;
+      margin-bottom: -1px;
+      padding: 0px 5px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      border: 1px solid #007c6a;
+      font-size: 13px;
+}
+
+.heading {
+      font-weight: 700;
+      color: #024083;
+      font-size: 15px;
+}
+
+.case {
+      min-width: 25%;
+      text-align: center;
+}
